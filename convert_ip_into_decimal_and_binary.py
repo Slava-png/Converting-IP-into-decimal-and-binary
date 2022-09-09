@@ -60,5 +60,5 @@ def convert_binary_into_decimal(binary):
     return address[:-1]  #omitting the last dot
 
 
-print(convert_decimal_into_binary("192.168.1.15"))
-print(convert_binary_into_decimal("11000000.10101000.00000001.00001111"))
+#print(convert_decimal_into_binary("192.168.1.15"))
+#print(convert_binary_into_decimal("11000000.10101000.00000001.00001111"))
